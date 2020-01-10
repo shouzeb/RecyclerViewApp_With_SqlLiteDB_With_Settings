@@ -1,0 +1,38 @@
+
+<resources>
+    <array name="profile_pic">
+        <item>@android:drawable/ic_menu_camera</item>
+        <item>@android:drawable/btn_default</item>
+        <item>@android:drawable/arrow_up_float</item>
+        <item>@android:drawable/arrow_up_float</item>
+    </array>
+    <array name="title">
+        <item>Camera</item>
+        <item>Button</item>
+        <item>Arrow</item>
+        <item>Arrow</item>
+
+    </array>
+    <array name="description">
+        <item>This is my new camera.</item>
+        <item>This is my new button.</item>
+        <item>This is my new arrow.</item>
+        <item>This is my new arrow.</item>
+    </array>
+
+        <string-array name="pref_upload_quality_entries">
+            <item>360p</item>
+            <item>480p</item>
+            <item>720p</item>
+            <item>1080p</item>
+            <item>Original</item>
+        </string-array>
+        <string-array name="pref_upload_quality_values">
+            <item>0</item>
+            <item>1</item>
+            <item>2</item>
+            <item>3</item>
+            <item>4</item>
+        </string-array>
+
+</resources>
